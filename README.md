@@ -2,5 +2,5 @@
 8 Circuit Studios Token
 
 ## build
-    $ npm intall
+    $ npm install
     $ npm run compile
