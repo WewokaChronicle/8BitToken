@@ -66,4 +66,4 @@ completion and allow you to obtain your 8BT tokens quickly.
 
 Example below uses Mist Wallet
 
-![image alt text](image_0.png)
+![Mist Wallet Example](https://user-images.githubusercontent.com/29153169/28245013-e52c3218-69b0-11e7-9613-5b313f40130e.png)
