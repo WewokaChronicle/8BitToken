@@ -76,9 +76,9 @@ Though your wallet instructions will differ, if not using Mist, the steps will b
 
 1. Select the “Contracts” area in your wallet
 2. Select “Watch Token” under the Custom Token heading
-![Watch Token](https://user-images.githubusercontent.com/29153169/28947483-f759cd02-7864-11e7-9722-c4d955b9fdd4.png | width=500)
+<img src="https://user-images.githubusercontent.com/29153169/28947483-f759cd02-7864-11e7-9722-c4d955b9fdd4.png" width="500">
 3. Copy the address from the 8 Circuit Studio token sale to the “Token Contract Address” text box
-![Token Contract Address](https://user-images.githubusercontent.com/29153169/28947480-f21ed788-7864-11e7-82a0-865b6a336486.png | width=220)
+<img src="https://user-images.githubusercontent.com/29153169/28947480-f21ed788-7864-11e7-82a0-865b6a336486.png" width="220">
 4. Ensure that the fields populated as soon as the address was added and click “ok”
-![Add Address](https://user-images.githubusercontent.com/29153169/28947491-02d1623a-7865-11e7-8568-5edc1c752a6b.png | width=224)
+<img src="https://user-images.githubusercontent.com/29153169/28947491-02d1623a-7865-11e7-8568-5edc1c752a6b.png" width="224">
 5. The token should now be visible in your wallet
